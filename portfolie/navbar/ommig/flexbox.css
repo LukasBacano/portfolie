@@ -1,0 +1,173 @@
+*html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: #2f2f2f;
+    
+    color: white;
+    background-image: url(spray.png);
+    height: 768px;
+    width: 1024;
+    background-size: stretch;
+    background-repeat: no-repeat;
+    background-position: stretch;  
+}
+.lukas{
+    height: 500px;
+    margin-top: -100px;
+    place-items: center;
+    position: relative; left: 550px; top: 300px;
+
+}
+h1{
+    font-size: 90px;
+    font-family: rig-solid-bold-fill, sans-serif;
+    padding-top: 0px;
+    padding-left: 0px;
+    letter-spacing: 10px;
+    font-weight: 700px;
+    color: rgb(233, 233, 233);  
+    line-height: 130px;
+    position: relative; left: -30px; top: 100px;
+    text-align: center;
+}
+p{
+   font-size: 18px;
+   padding-top: 20px;
+   text-align: center;
+   
+    
+}
+ul{
+    text-align: center; 
+}
+li{
+    margin-top: 20px;
+    padding-top: 20px;
+    position: relative; top: 100px;
+    font-size: 30px;
+}
+a{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+header{
+
+    width: 1024;
+    text-align: center;
+    height: 10px;
+
+   
+}
+.navbar{
+    background-color: rgba(0, 0, 0, 0.527);
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    width: 1024px;
+    position: fixed;
+    margin: auto;
+    
+}
+nav a{
+    text-decoration: none;
+    font-size: 15px;
+    padding-right: 40px;
+    padding-left: 40px;
+
+}
+main{
+    height: 400px;
+    text-align: center;
+    padding-top: 40px;
+    padding-right: 500px;
+    padding-left: 0px;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.459);
+    height: 100px;
+    text-align: center;
+    margin: top 50%;
+    margin: bottom 50%;
+    position: relative;top: 336px;
+    
+}
+footer p{ 
+    position: center;
+}
+.container{
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    text-align: center;
+}
+
+.ommig p{
+    position: relative;top: 150px;
+    
+}
+span:hover{
+    height: 16px;
+    color: rgb(231, 231, 231);
+    font-size: 16px;
+    z-index: 5;
+
+    
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+    z-index: 4;
+    
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f94f;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px;
+    z-index: 1;
+    top:-5px;
+  }
+  .prog{
+    background-color: transparent;
+    border: 0px;
+    color: white;
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
+    background-color: rgba(0, 0, 0, 0.527);
+    margin-top: 21px;
+  }
+#hjem:hover{
+    font-size: 16px;
+    color: rgb(231, 231, 231)
+}
+.dropdown-content:hover{
+    font-size: 16px;
+    color: rgb(231, 231, 231)
+}
+#billeder:hover{
+    font-size: 16px;
+    color: rgb(231, 231, 231)
+}
+#illustrationer:hover{
+    font-size: 16px;
+    color: rgb(231, 231, 231)
+}
+#lukasbrevkas:hover{
+    font-size: 16px;
+    color: rgb(231, 231, 231)
+}
+#ommig:hover{
+    font-size: 16px;
+    color: rgb(231, 231, 231)
+}
+#ommig:hover{
+    font-size: 16px;
+    color: rgb(231, 231, 231)
+}
